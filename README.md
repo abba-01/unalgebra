@@ -132,7 +132,7 @@ UN → N/U projection:
 ## References
 
 - **N/U Algebra**: Martin, E. et al. (2025). DOI: [10.5281/zenodo.17222201](https://doi.org/10.5281/zenodo.17222201)
-- **Discussion**: See [nualgebra_anthropology Discussions](https://github.com/abba-01/nualgebra_anthropology/discussions) (link to be created)
+- **Discussion**: [UN Algebra Extension Thread](https://github.com/abba-01/nualgebra_anthropology/discussions/3) on nualgebra_anthropology
 
 ## Contributing
 
